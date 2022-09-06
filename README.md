@@ -4,7 +4,8 @@ Uses Optimizely FullStack with the [Optimizely Edge SDK](https://docs.developers
 
 ## Live Demo 👻
 
- [https://opti-fullstack-sdk.jonjones.workers.dev/](https://opti-fullstack-sdk.jonjones.workers.dev/)
+ - [Website](https://opti-fullstack-sdk.jonjones.workers.dev/)
+ - [Github](https://github.com/jondjones-poc/optimizely-fullstack-cloudflare-worker)
 
 ## Useful Links ⚡️ 
 
